@@ -80,4 +80,4 @@ for i in list:
         decoded_text += bacon_dict2[i.lower()]
     else:
         pass
-print(decoded_text))
+print(decoded_text)
